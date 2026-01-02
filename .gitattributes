@@ -1,5 +1,3 @@
-# Tratează toate fișierele SQL ca text
-*.sql text
-
-# Normalizează line endings pe toate sistemele
-* text=auto
+*.sql linguist-language=SQL
+README.md linguist-language=Markdown
+*.txt linguist-language=Text
