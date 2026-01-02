@@ -1,0 +1,8 @@
+INSERT INTO ANGAJATI VALUES (200, 'Mirea', 'Stefan', '757648180', 'mireastefan@gmail.com', TO_DATE('06/09/1993', 'MM/DD/YYYY'), TO_DATE('04/10/2012', 'MM/DD/YYYY'), 'S200');
+INSERT INTO ANGAJATI VALUES (205, 'Miron', 'Florica', '757648187', 'mironflorica@gmail.com', TO_DATE('05/07/2001', 'MM/DD/YYYY'), TO_DATE('05/11/2021', 'MM/DD/YYYY'), 'S200');
+INSERT INTO ANGAJATI VALUES (202, 'Stroe', 'Camelia', '757648182', 'stroecamelia@gmail.com', TO_DATE('09/15/1999', 'MM/DD/YYYY'), TO_DATE('11/19/2025', 'MM/DD/YYYY'), 'S201');
+INSERT INTO ANGAJATI VALUES (203, 'Nae', 'Silviu', '757648183', 'naesilviu@gmail.com', TO_DATE('03/20/1989', 'MM/DD/YYYY'), TO_DATE('04/04/2025', 'MM/DD/YYYY'), 'S202');
+INSERT INTO ANGAJATI VALUES (204, 'Vasile', 'Tatiana', '757648188', 'vasiletatiana@gmail.com', TO_DATE('08/17/1991', 'MM/DD/YYYY'), TO_DATE('02/01/2020', 'MM/DD/YYYY'), 'S202');
+INSERT INTO ANGAJATI VALUES (201, 'Visan', 'Alina-Elena', '757648185', 'visanalina@gmail.com', TO_DATE('10/14/2005', 'MM/DD/YYYY'), TO_DATE('08/25/2025', 'MM/DD/YYYY'), 'S203');
+
+COMMIT;
