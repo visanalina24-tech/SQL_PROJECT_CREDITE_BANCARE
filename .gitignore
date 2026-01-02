@@ -1,0 +1,13 @@
+# Fișiere temporare / editor
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Fișiere Oracle locale (dacă faci exporturi)
+*.dmp
+*.dbf
+*.sqlite
+
+# Configurații locale / sensibile
+.env
