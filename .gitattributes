@@ -1,0 +1,5 @@
+# Tratează toate fișierele SQL ca text
+*.sql text
+
+# Normalizează line endings pe toate sistemele
+* text=auto
