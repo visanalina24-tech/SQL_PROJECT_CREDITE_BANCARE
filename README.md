@@ -17,7 +17,7 @@ Implemented primary keys, foreign keys, unique constraints and indexes to ensure
 Within this project, I created several tables entitled: CLIENTI, ANGAJATI, FUNCTIE, CONTURI, CREDITE, TIPURI DE CREDITE, RATE, RESTANTE. (Translated: CUSTOMERS, EMPLOYEES, POSITION, ACCOUNTS, LOANS, TYPES OF LOANS, INSTALLMENTS, FINANCIAL RATIOS)
 
 NOTES:
-- This project was created with Apex ORACLE, using SQL and PL/SQL.
+- This project was developed using Oracle APEX, Oracle SQL and PL/SQL.
 - Although the project was developed in Romanian, I am comfortable working with English terminology, documentation and technical environments.
 
 <img width="1476" height="789" alt="CREDIT-LOANS-BRD-PROJECT" src="https://github.com/user-attachments/assets/a1340645-6bf8-488e-baa2-9ca9d4b6f9d0" />
