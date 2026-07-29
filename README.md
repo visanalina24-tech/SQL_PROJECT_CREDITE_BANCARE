@@ -1,4 +1,4 @@
-I will demonstrate in this project the lending activity of a bank, highlighting the economic relationships between customers, employees, accounts, loans and installments.
+For this project, I wanted to build something that reflects a real-world banking system rather than just creating a simple database. I designed a relational database that manages customers, bank accounts, loans, employees and repayments using Oracle SQL, PL/SQL and Oracle APEX.
 
 My Bank offers loans to its customers, each identified by personal data and monthly income. Each registered customer has a unique identification code in the bank's database, in order to be easier to track and observe the history of payments, receipts or any other type of financial transaction. A customer can hold one or more bank accounts, these being identified by the unique IBAN code, given by the bank, and the customer's unique registration code.
 
@@ -12,21 +12,12 @@ In conclusion, the database helps the bank track:
 - payments and arrears,
 - employee activity.
   
-Indexes used:
-- PK_ANGAJAT_ANGAJAT_ID
-- PK_CLIENTI
-- PK_CREDITE CREDIT_ID
-- PK_FUNCTIE_FUNCTIE_ID
-- PK_RATE_RATA_ID
-- PK_RESTANTE_RESTANTA_ID
-- PK_TIPURI_DE_CREDIT_TIP_CREDIT_ID
-- UQ_CLIENTI_CNP
-- UQ_CONTURI_IBAN
+Implemented primary keys, foreign keys, unique constraints and indexes to ensure data integrity and efficient data retrieval.
 
 Within this project, I created several tables entitled: CLIENTI, ANGAJATI, FUNCTIE, CONTURI, CREDITE, TIPURI DE CREDITE, RATE, RESTANTE. (Translated: CUSTOMERS, EMPLOYEES, POSITION, ACCOUNTS, LOANS, TYPES OF LOANS, INSTALLMENTS, FINANCIAL RATIOS)
 
 NOTES:
 - This project was created with Apex ORACLE, using SQL and PL/SQL.
-- This project was created in Romanian and I have no problem working with English terms.
+- Although the project was developed in Romanian, I am comfortable working with English terminology, documentation and technical environments.
 
 <img width="1476" height="789" alt="CREDIT-LOANS-BRD-PROJECT" src="https://github.com/user-attachments/assets/a1340645-6bf8-488e-baa2-9ca9d4b6f9d0" />
